@@ -42,5 +42,7 @@
 To showcase my projects, certifications, and skills.
 https://divyanshsharma-7.github.io/Portfolio-Website/
 
+<h2 align="left">🌟 Thanks for visiting my profile!</h2>
+If you like my profile & work, don't forget to ⭐ my repositories.
 <h2 align="left">📊 GitHub Analytics :</h2>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshsharma-7&" alt="divyanshsharma-7" /></p>
