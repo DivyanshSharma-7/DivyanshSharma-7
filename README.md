@@ -4,12 +4,13 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshsharma-7&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshsharma-7" /> </p> -->
 <br>
 <h2 align="left">🙋‍♂️ About Me :</h2>
- 🎓 B.Tech Computer Science Student <br>
-  📊I’m currently learning <b>DSA,JavaScript and More In CSS</b> <br>
+  🎓 B.Tech Computer Science Student <br>
+  💻 I have a Knowledge of Programming Languages like C,C++,Python <br>
+  📊 I’m currently learning <b>DSA,JavaScript and More In CSS</b> <br>
   👨‍💻 All of my projects are available at https://divyanshsharma-7.github.io/Portfolio-Website/ <br>
   🤖 Exploring AI Tools<br>
-🚀 Building real-world web projects<br>
- 📫 How to reach me **ds3741777@gmail.com**
+  🚀 Building real-world web projects<br>
+  📫 How to reach me **ds3741777@gmail.com**
  
 
 <h2 align="left">🌐 Connect with me :</h2>
